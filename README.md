@@ -1,6 +1,6 @@
 <h2 align="left">Cześć, jestem kinius!</h2>
 
-<p align="left">Jestem programistą z zamiłowaniem do tworzenia nowoczesnych aplikacji webowych. Specjalizuję się w technologiach frontendowych, z naciskiem na wydajne i skalowalne rozwiązania.</p>
+<p align="left">Jestem programistą pasjonującym się frontendem. Codziennie rozwijam swoje umiejętności, eksperymentując z nowymi technologiami i tworząc projekty, które łączą funkcjonalność z estetyką. W wolnym czasie zgłębiam również świat gamedevu i niskopoziomowego programowania.</p>
 
 ###
 
@@ -19,16 +19,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo"  />
 </div>
-
-###
-
-<h3 align="left">Specjalizacje</h3>
-
-<p align="left">
-  <strong>React</strong> - Doświadczenie w budowaniu dynamicznych interfejsów z użyciem komponentów funkcyjnych, hooks, Context API i React Router.<br>
-  <strong>Vue.js</strong> - Praktyczna znajomość Vue 3 z Composition API, Vuex i Vue Router.<br>
-  <strong>Vite</strong> - Nowoczesne narzędzie buildowe zapewniające szybki development z natychmiastowym HMR i optymalnym bundlingiem.
-</p>
 
 ###
 
