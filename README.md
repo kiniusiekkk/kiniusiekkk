@@ -1,4 +1,6 @@
-<h2 align="left">I'm kinius. Have a good day!</h2>
+<h2 align="left">Cześć, jestem kinius!</h2>
+
+<p align="left">Jestem programistą z zamiłowaniem do tworzenia nowoczesnych aplikacji webowych. Specjalizuję się w technologiach frontendowych, z naciskiem na wydajne i skalowalne rozwiązania.</p>
 
 ###
 
@@ -10,7 +12,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo"  />
 </div>
+
+###
+
+<h3 align="left">Specjalizacje</h3>
+
+<p align="left">
+  <strong>React</strong> - Doświadczenie w budowaniu dynamicznych interfejsów z użyciem komponentów funkcyjnych, hooks, Context API i React Router.<br>
+  <strong>Vue.js</strong> - Praktyczna znajomość Vue 3 z Composition API, Vuex i Vue Router.<br>
+  <strong>Vite</strong> - Nowoczesne narzędzie buildowe zapewniające szybki development z natychmiastowym HMR i optymalnym bundlingiem.
+</p>
 
 ###
 
