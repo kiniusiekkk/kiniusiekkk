@@ -13,7 +13,7 @@ I am a software developer focused on the frontend, where I prioritize the inters
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiniusiekkk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Organizations
-[<img src="https://bit-start.pl/bitstart_text.png" width="250">](https://bit-start.pl/)
+[<img src="https://bit-start.pl/assets/banner-bitstart.png" width="300">](https://bit-start.pl/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=kiniusiekkk)](https://visitcount.itsvg.in)
