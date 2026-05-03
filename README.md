@@ -14,6 +14,7 @@ I am a software developer focused on the frontend, where I prioritize the inters
 
 ### Organizations
 [<img src="https://bit-start.pl/assets/banner-bitstart.png" width="450">](https://bit-start.pl/)
+[<img src="https://bit-start.pl/assets/banner-koja.png" width="450">](https://kojascripts.eu/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=kiniusiekkk)](https://visitcount.itsvg.in)
